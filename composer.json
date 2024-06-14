@@ -1,0 +1,11 @@
+{
+    "name": "shareful/exiftool",
+    "description": "fetch meta info of any file",
+    "authors": [
+        {
+            "name": "Shareful Islam",
+            "email": "km.shareful@gmail.com"
+        }
+    ],
+    "require": {}
+}
