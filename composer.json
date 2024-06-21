@@ -1,10 +1,10 @@
 {
-    "name": "shareful/exiftool",
-    "description": "fetch meta info of any file",
+    "name": "archoraladmin/fileprops",
+    "description": "fetch meta info of media files",
     "authors": [
         {
-            "name": "Shareful Islam",
-            "email": "km.shareful@gmail.com"
+            "name": "Archoral LLC",
+            "email": "admindev@archoral.com"
         }
     ],
     "require": {}
